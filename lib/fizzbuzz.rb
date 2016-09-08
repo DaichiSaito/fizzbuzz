@@ -7,6 +7,7 @@ class Fizzbuzz
     elsif number % 5 == 0
       'buzz'
     elsif number % 7 == 0
+    # コメント入れてみた
       'GitHub'
     else
       number
